@@ -33,21 +33,21 @@ Você poderá ver outros dos meus projetos simples aqui:
 [http://teste-hostgator.surge.sh/](http://teste-hostgator.surge.sh/)
 Landing Page para empresa de hosting
 
-[breaking-bad-phrases.surge.sh](breaking-bad-phrases.surge.sh)
+[http://breaking-bad-phrases.surge.sh](http://breaking-bad-phrases.surge.sh)
 Gerador de frases random da série Breaking Bad Series.
 
-[teste-reload.surge.sh](teste-reload.surge.sh)
+[http://teste-reload.surge.sh](http://teste-reload.surge.sh)
 Simples avatar médico para reconhecer partes humanas, feito como início de jogo de anatomía para crianças.
 
-[teste-wecount.surge.sh](teste-wecount.surge.sh)
+[http://teste-wecount.surge.sh](http://teste-wecount.surge.sh)
 Mock-up para e-commerce, teste usando as capacidades de useState e Redux.
 
-[meb-store.surge.sh](meb-store.surge.sh)
+[http://meb-store.surge.sh](http://meb-store.surge.sh)
 Projeto base de e-commerce.
 
-[teste-syndikos.surge.sh](teste-syndikos.surge.sh)
+[http://teste-syndikos.surge.sh](http://teste-syndikos.surge.sh)
 Validação de formulários com background ilimitado.
 
-[teste-gdp-clube.surge.sh](teste-gdp-clube.surge.sh)
+[http://teste-gdp-clube.surge.sh](http://teste-gdp-clube.surge.sh)
 App para testar capacidades de React e Redux. Aqui, é gerado uma lista de imágens basada na API da NASA para obter a imagen do dia.
 Também tem uma lista organizável de imagens favoritas para ver, baixar e borrar.
